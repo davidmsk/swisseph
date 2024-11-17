@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.c text eol=lf
 *.cfg text eol=lf
 *.h text eol=lf
@@ -7,3 +8,6 @@ Makefile text eol=lf
 *.py text eol=lf
 *.TXT text eol=lf
 *.txt text eol=lf
+=======
+*.se1	binary
+>>>>>>> fd071c7c52c6db322d5d799eec7753801142cf3b
